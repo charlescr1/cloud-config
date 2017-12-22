@@ -1,4 +1,7 @@
-rest.service.cloud.config.example=Recurso Publico
+#Application Name
+spring:
+ application:
+  name: Public-RestService
 
 #Component Info
 info:
